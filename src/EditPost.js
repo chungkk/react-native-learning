@@ -4,7 +4,7 @@ import React from 'react'
 export default function EditPost() {
   return (
     <View>
-      <Text>EditPost1</Text>
+      <Text>EditPost2</Text>
     </View>
   )
 }
