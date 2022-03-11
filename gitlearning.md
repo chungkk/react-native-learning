@@ -24,3 +24,4 @@ git push
 
 
 git checkout -b tenbranch       ( - tao moi)
+git checkout tenbranch       ( - nhay qua)
