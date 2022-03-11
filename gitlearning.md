@@ -21,3 +21,6 @@ git commit -m "commit th 2"
 
 git push
 ```
+
+
+git checkout -b tenbranch       ( - tao moi)
